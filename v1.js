@@ -38,17 +38,17 @@ const http = require('http');
 
 /////////////////////////////////////////////////////////////////////////////////
 
-const mail1 = ('lakayprojet851@gmail.com');
+const mail1 = ('lajanlajan476@gmail.com');
 
-const password1 = ('Teamenomade@12');
+const password1 = ('Teamnomadanpa100$');
 
-const name1 = ('BRYAN'); //prenom
+const name1 = ('mondesie'); //prenom
 
-const lastName1 = ('lajambe'); //nom
+const lastName1 = ('djeison'); //nom
 
-const SeriePaspo1 = ('R12597837');
+const SeriePaspo1 = ('R12199242');
 
-const NUT1 = ('7081393');
+const NUT1 = ('7213862');
 
 
 
